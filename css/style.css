@@ -258,7 +258,10 @@ button {
      padding: 0;
      cursor: pointer;
 }
+.psprob{  
+     margin:auto
 
+}
 .full {
      float: left;
      width: 100%;
@@ -310,6 +313,13 @@ button {
      padding:5px;
      color:black!important;
      background-color: #27e4f2!important;
+}
+.btn-reg1{
+     /* padding:51px; */
+     color:black!important;
+     background-color: #27e4f2!important;
+     width: 100%;
+     padding:15px;
 }
 /**-- heading section --**/
 
